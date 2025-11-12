@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ---
 
 ## Skills
-- **Languages**: JavaScript, Python
-- **Frameworks**: React, Next.js, FastAPI 
+- **Languages**: JavaScript, Python, SQL, Ruby
+- **Frameworks**: React, Next.js, FastAPI, Ruby_on_Rails
 - **Tools**: GitHub, Docker, VS Code, Cursor, MarkDown
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/32a40418-4644-442f-8f94-532679b1caa1" />
